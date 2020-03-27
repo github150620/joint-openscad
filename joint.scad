@@ -20,5 +20,5 @@ difference() {
         }
     }        
     
-    cylinder(h=10,d=5,$fn=6);
+    cylinder(h=10,d=5.4,$fn=6);
 }
